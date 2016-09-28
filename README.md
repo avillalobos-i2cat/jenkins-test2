@@ -1,2 +1,2 @@
-# jenkins-test2
+# jenkins-test
 Just to test Jenkins Pipelines
